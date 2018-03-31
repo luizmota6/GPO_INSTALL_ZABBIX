@@ -1,1 +1,1 @@
-# GPO install Zabbix Windows Server
+# GPO install zabbix agent windows 7 32bit 64bit 
